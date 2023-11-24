@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on an Identity provider project to protect my REST API project. This IDP use Duende IdentityServer based on OAuth and OpenID Connect.
+- 🔭 I’m currently working on an Identity provider project to protect my REST API project. This IDP use Duende IdentityServer based on OAuth2 and OpenID Connect.
 - 🌱 I’m currently learning about API security and Flutter framework.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
