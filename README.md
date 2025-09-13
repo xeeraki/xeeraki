@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with finding unique software bussiness idea.
 - 💬 Ask me about .NET, Flutter, Angular, Databases and software architecture.
 - 📫 How to reach me: See my email in profile.
-- ⚡ Fun fact: Fastlane + Github Actions = just cool :)
+- ⚡ Fun fact: Great CI/CD = Azure DevOps Pipline + Github Actions for web and Codmagic for mobile
 
